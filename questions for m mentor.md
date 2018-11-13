@@ -1,2 +1,2 @@
 - Github - I'm brand new and it's a little confusing for me now.What should I focus on?
-- 
+- Submissions - is it an assignment, or checkpoint work? 
