@@ -3,3 +3,5 @@
 - Group sessions - mostly 9-5. I can't make those!
   - how to I track which ones I have attended?
     - DDC on 11/12 at 9pm
+- How do I keep track of completed checkpoints? How do I mark it complete?
+  - [x] I really like checklists :)
