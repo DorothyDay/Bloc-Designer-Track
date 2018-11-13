@@ -1,3 +1,5 @@
 - Github - I'm brand new and it's a little confusing for me now.What should I focus on?
 - Submissions - is it an assignment, or checkpoint work? 
 - Group sessions - mostly 9-5. I can't make those!
+  - how to I track which ones I have attended?
+    - DDC on 11/12 at 9pm
