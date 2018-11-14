@@ -15,3 +15,6 @@
 - watch recorded group sessions
 - checkpoint 4 - 2-3 bullet points each on SWOT analysis competitive analysis less is more
   - around 4 hours per checkpoint
+
+Next week: send questions, respond with video response / email back and forth / reschedule for the SUNDAY
+ - guage where i am Monday, to see if I need help right away
