@@ -13,3 +13,5 @@
 - 1st week goal: get to checkpoint 8
 - use Slack as a resource
 - watch recorded group sessions
+- checkpoint 4 - 2-3 bullet points each on SWOT analysis competitive analysis less is more
+  - around 4 hours per checkpoint
