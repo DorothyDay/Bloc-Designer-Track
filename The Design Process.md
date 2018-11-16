@@ -16,9 +16,9 @@
   * *Weaknesses:* 
 5. **Development** Building functional code to allow for further interactive testing.
   * Experience: low
-  * *Strengths:* Exploring and learning front-end code has been my favorite activity that got me into design
-  * *Weaknesses:*
+  * *Strengths:* Exploring and learning front-end code has been my favorite activity that got me into design, so hopefully this will be something I enjoy.
+  * *Weaknesses:* I have lots of languages to learn!!
 6. **Launch** Deploying the project to the public, presenting your work, and beginning the process over again.
   * Experience: low
-  * *Strengths:* 
-  * *Weaknesses:*
+  * *Strengths:* As a teacher I present every day! Sharing information in a consice and understanble way is one of my main strengths. 
+  * *Weaknesses:* none
